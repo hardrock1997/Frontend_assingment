@@ -1,0 +1,39 @@
+.profile_container {
+    border: 1px solid black;
+}
+.profile_container_header {
+    display: flex;
+    justify-content: space-between;
+}
+.back_btn {
+    margin: 5px;
+    height: 20px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+.pause_start_btn {
+    margin: 5px;
+    height: 20px;
+    background-color: aquamarine;
+    
+}
+.dropdown {
+    position: relative;
+    bottom: 15px;
+}
+.profile_heading {
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+.profile_body {
+    border: 1px solid black;
+}
+.profile_body_top {
+    display: flex;
+    justify-content: space-between;
+}
+.profile_body_bottom {
+    display: flex;
+    justify-content: space-between;
+}

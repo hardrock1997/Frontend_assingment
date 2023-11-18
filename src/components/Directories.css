@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color:aquamarine;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right:20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.name {
+    padding-left:15px;
+}
+.posts {
+    padding-right:15px;
+}
